@@ -1,0 +1,6 @@
+{
+  "name": "SAPIEN ERP",
+  "description": "Universal Enterprise Resource Planning & Academy Management Platform for Sapien Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
